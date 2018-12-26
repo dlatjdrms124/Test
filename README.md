@@ -2,7 +2,7 @@
 ## 중제목
 ### 소제목
 #이거는 아무것도 아님
->참고 : GitHub란....
+> 참고 : GitHub란....
 Site : [HKIT](http://www.hkit.kr)
 |Site|Url|
 |--|--|
